@@ -1,0 +1,19 @@
+Ma_CBGV,Ho_ten,Ngay_sinh,Gioi_tinh,Chuc_vu,Vai_tro,Diem_truong,To_chuyen_mon,Mon_day,Trinh_do,Chuyen_nganh,SDT,Email,Ngay_vao_nganh,Trang_thai,Ghi_chu
+STAFF_001,Nguyễn Hồ Bắc,1975-08-15,Nam,Hiệu trưởng,HIỆU TRƯỞNG,Toàn trường,Ban Giám hiệu,Quản lý / Toán,Thạc sĩ,Quản lý Giáo dục,0913.456.789,hieutruong.ndc@daklak.edu.vn,1998-09-01,Đang công tác,Hiệu trưởng toàn trường
+STAFF_002,Phạm Ngọc Tiến,1988-04-12,Nam,Quản lý Hệ thống & CNTT,QUẢN LÝ CNTT,Toàn trường,Tổ CNTT - Thiết bị,Tin học,Cử nhân,CNTT & Sư phạm Tin,0988.765.432,tienpn.cntt@daklak.edu.vn,2012-10-01,Đang công tác,Quản trị hệ thống
+STAFF_003,,1980-01-01,Nam,Phó Hiệu trưởng – Phân hiệu 1,PHÓ HIỆU TRƯỞNG,Phân hiệu 1,Ban Giám hiệu,,Đại học,Giáo dục Tiểu học,,,,Chưa phân công,Chờ bổ nhiệm / cập nhật
+STAFF_004,,1982-01-01,Nam,Phó Hiệu trưởng – Phân hiệu 2,PHÓ HIỆU TRƯỞNG,Phân hiệu 2,Ban Giám hiệu,,Đại học,Giáo dục Tiểu học,,,,Chưa phân công,Chờ bổ nhiệm / cập nhật
+STAFF_005,,1978-01-01,Nam,Phó Hiệu trưởng – Điểm chính THCS,PHÓ HIỆU TRƯỞNG,Điểm chính THCS,Ban Giám hiệu,,Thạc sĩ,Sư phạm THCS,,,,Chưa phân công,Chờ bổ nhiệm / cập nhật
+STAFF_006,Lê Thị Thu Hà,1985-03-20,Nữ,Tổ trưởng Khối 1 / GVCN 1A1,GIÁO VIÊN,Phân hiệu 1,Tổ Chuyên môn Khối 1,Tiểu học,Đại học Sư phạm,Giáo dục Tiểu học,0973.111.222,lehatha@gmail.com,2008-09-01,Đang công tác,GVCN 1A1
+STAFF_007,Phạm Thị Huệ,1987-11-14,Nữ,Tổ trưởng Khối 2 / GVCN 2A1,GIÁO VIÊN,Phân hiệu 1,Tổ Chuyên môn Khối 2,Tiểu học,Đại học Sư phạm,Giáo dục Tiểu học,0975.222.333,phamthihue@gmail.com,2010-09-01,Đang công tác,GVCN 2A1
+STAFF_008,Bùi Thị Hằng,1984-06-08,Nữ,Tổ trưởng Khối 3 / GVCN 3A1,GIÁO VIÊN,Phân hiệu 1,Tổ Chuyên môn Khối 3,Tiểu học,Đại học Sư phạm,Giáo dục Tiểu học,0982.333.444,buithihang@gmail.com,2007-09-01,Đang công tác,GVCN 3A1
+STAFF_009,Võ Thị Nga,1986-09-12,Nữ,Tổ trưởng Khối 4 / GVCN 4A1,GIÁO VIÊN,Phân hiệu 1,Tổ Chuyên môn Khối 4,Tiểu học,Đại học Sư phạm,Giáo dục Tiểu học,0978.444.555,vothinga@gmail.com,2009-09-01,Đang công tác,GVCN 4A1
+STAFF_010,Nguyễn Thị Oanh,1983-02-18,Nữ,Tổ trưởng Khối 5 / GVCN 5A1,GIÁO VIÊN,Phân hiệu 1,Tổ Chuyên môn Khối 5,Tiểu học,Đại học Sư phạm,Giáo dục Tiểu học,0912.555.666,nguyenoanh@gmail.com,2006-09-01,Đang công tác,GVCN 5A1
+STAFF_011,H'Lâm Niê,1990-05-24,Nữ,Giáo viên Chủ nhiệm 1B1,GIÁO VIÊN,Phân hiệu 2,Tổ Tiểu học Phân hiệu 2,Tiểu học,Đại học Sư phạm,Giáo dục Tiểu học,0963.777.888,hlamnie@gmail.com,2014-09-01,Đang công tác,Dân tộc Ê-đê
+STAFF_012,Y Thoan Mlô,1989-10-10,Nam,Giáo viên Chủ nhiệm 2B1,GIÁO VIÊN,Phân hiệu 2,Tổ Tiểu học Phân hiệu 2,Tiểu học,Đại học Sư phạm,Giáo dục Tiểu học,0979.888.999,ythoanmlo@gmail.com,2013-09-01,Đang công tác,Phân hiệu 2
+STAFF_013,Nguyễn Văn Tuấn,1982-12-05,Nam,Tổ trưởng Tự nhiên / GVCN 6A,GIÁO VIÊN,Điểm chính THCS,Tổ Toán - KHTN,Toán học,Đại học Sư phạm,Toán học,0914.123.456,tuannv.toan@gmail.com,2005-09-01,Đang công tác,Điểm chính THCS
+STAFF_014,Đinh Quang Huy,1985-07-19,Nam,Tổ phó Tự nhiên / GVCN 7A,GIÁO VIÊN,Điểm chính THCS,Tổ Toán - KHTN,Vật lý,Đại học Sư phạm,Vật lý,0983.234.567,huydq.ly@gmail.com,2008-09-01,Đang công tác,Điểm chính THCS
+STAFF_015,Hoàng Minh Đức,1984-01-25,Nam,Tổ trưởng Xã hội / GVCN 8A,GIÁO VIÊN,Điểm chính THCS,Tổ Ngữ văn - KHXH,Ngữ văn,Thạc sĩ,Văn học,0972.345.678,duchm.van@gmail.com,2007-09-01,Đang công tác,Điểm chính THCS
+STAFF_016,Trịnh Văn Hải,1981-09-30,Nam,Tổ phó Xã hội / GVCN 9A,GIÁO VIÊN,Điểm chính THCS,Tổ Ngữ văn - KHXH,Lịch sử,Đại học Sư phạm,Lịch sử,0918.456.789,haitv.su@gmail.com,2004-09-01,Đang công tác,Điểm chính THCS
+STAFF_017,Nguyễn Thị Thu Hiền,1991-04-16,Nữ,Kế toán trưởng,NHÂN VIÊN,Toàn trường,Tổ Văn phòng,,Cử nhân,Kế toán tài chính,0905.123.987,ketoan.ndc@gmail.com,2015-01-01,Đang công tác,Chế độ chính sách
+STAFF_018,Trần Thị Thu Trang,1993-08-22,Nữ,Nhân viên Y tế học đường,NHÂN VIÊN,Toàn trường,Tổ Văn phòng,,Cao đẳng,Y tế học đường,0935.654.321,ytetruonghoc.ndc@gmail.com,2017-03-01,Đang công tác,Y tế học đường

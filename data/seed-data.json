@@ -1,0 +1,25 @@
+{
+  "academicYear": "2026-2027",
+  "school": {
+    "name": "Trường TH&THCS Nguyễn Đình Chiểu",
+    "address": "Thôn Cư Nghĩa, xã Ea Kar, tỉnh Đắk Lắk",
+    "principal": "Nguyễn Hồ Bắc",
+    "itManager": "Phạm Ngọc Tiến",
+    "totalClasses": 44,
+    "totalStudents": 1467,
+    "initialMonth": "2026-09",
+    "cutoffDate": "2026-09-15"
+  },
+  "leadership": [
+    { "role": "Hiệu trưởng", "name": "Nguyễn Hồ Bắc", "scope": "Toàn trường" },
+    { "role": "Quản lý CNTT", "name": "Phạm Ngọc Tiến", "scope": "Toàn trường" },
+    { "role": "Phó Hiệu trưởng – Phân hiệu 1", "name": null, "scope": "Phân hiệu 1" },
+    { "role": "Phó Hiệu trưởng – Phân hiệu 2", "name": null, "scope": "Phân hiệu 2" },
+    { "role": "Phó Hiệu trưởng – Điểm chính THCS", "name": null, "scope": "Điểm chính THCS" }
+  ],
+  "campuses": [
+    { "id": "PH1", "name": "Trường TH&THCS Nguyễn Đình Chiểu (Phân hiệu 1)", "classes": 20, "students": 678 },
+    { "id": "PH2", "name": "Trường TH&THCS Nguyễn Đình Chiểu (Phân hiệu 2)", "classes": 9, "students": 255 },
+    { "id": "DIEM_CHINH", "name": "Trường TH&THCS Nguyễn Đình Chiểu (Điểm chính)", "classes": 15, "students": 534 }
+  ]
+}

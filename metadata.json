@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thống Quản lý Sĩ số - TH&THCS Nguyễn Đình Chiểu",
+  "description": "Hệ thống quản lý sĩ số học sinh, lớp học, cán bộ giáo viên, biến động và báo cáo thống kê trường TH&THCS Nguyễn Đình Chiểu (Ea Kar, Đắk Lắk)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
